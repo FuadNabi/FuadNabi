@@ -1,4 +1,4 @@
-![banner](Banner.png)
+<img src="Banner.png">
 
 ## Hello👋 I am Fuad
 
