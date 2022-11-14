@@ -1,3 +1,5 @@
+![banner](Banner.png)
+
 ## Hello👋 I am Fuad
 
 ### I am a Full-stack developer🖥️
