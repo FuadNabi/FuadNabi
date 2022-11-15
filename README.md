@@ -23,4 +23,6 @@
 [![linkdin](https://user-images.githubusercontent.com/68030297/194533472-feb45d0c-a777-4244-a453-0c7e73281137.svg)](https://www.linkedin.com/in/fuad-nabiyev-a5234524a/)
 [![TWITTER](https://user-images.githubusercontent.com/68030297/194710865-8ab92771-79ed-4ebd-b333-b0835ef346f3.svg)](https://twitter.com/FuadNebiyev2)
 
+## Contribution Graph 📈
+
 ![FuadNabi's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=FuadNabi&theme=redical&hide_border=true&area=true)
