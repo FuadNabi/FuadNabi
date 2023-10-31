@@ -22,5 +22,5 @@
 <a href="mailto:fuad.nebiyev95@mail.ru">![EMAIL (2)](https://user-images.githubusercontent.com/68030297/194710587-78e1cc36-de48-4c31-832e-f08970c836be.svg)
 </a>
 [![linkdin](https://user-images.githubusercontent.com/68030297/194533472-feb45d0c-a777-4244-a453-0c7e73281137.svg)](https://www.linkedin.com/in/fuad-nabiyev/)
-[![TWITTER](https://user-images.githubusercontent.com/68030297/194710865-8ab92771-79ed-4ebd-b333-b0835ef346f3.svg)](https://twitter.com/FuadNebiyev2)
+[![TWITTER](https://user-images.githubusercontent.com/68030297/194710865-8ab92771-79ed-4ebd-b333-b0835ef346f3.svg)](https://twitter.com/FuadNabiyev_)
 
