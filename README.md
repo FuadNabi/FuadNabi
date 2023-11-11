@@ -3,7 +3,7 @@
 
 # Hi, I am Fuad Nabiyev<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-## I am a Full-stack developer🖥️
+## I'm a Full-stack developer🖥️
 
 - 🌱 I’m currently learning Full-stack web development in a remote multicultural environment
 - 📫 How to reach me: fuad.nebiyev95@mail.ru
