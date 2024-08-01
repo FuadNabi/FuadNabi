@@ -6,7 +6,7 @@
 ## I'm a Full-stack developer🖥️
 
 - 🌱 I’ve finished Microverse, a remote software development program.
-- 💼 Currently I'm working in A1qa company as a Intern QA Engineer.
+- 💼 Currently I'm working in A1qa company as an Intern QA Engineer.
 - 📫 How to reach me: fuad.nebiyev95@mail.ru
 
 ## My stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
